@@ -2,8 +2,10 @@
 
 int main(int argc, char *argv[])
 {
-	printf("this is 1 new line\n");
 	printf("hello world!\n");
 	printf("master\n");
-	return 0;
+	printf("This is a change in the code\n")
+	//woopa
+	printf("test\n");
+	return 0; //there is a greek ? mark here
 }
